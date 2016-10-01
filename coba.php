@@ -1,3 +1,4 @@
 <?php
 	echo "10114426 -Taufiq Nugraha";
-	echo "10114474 - Faisal gimana ini sal";
+<<<<<<< HEAD
+	echo "10114474 - Faisal sal gimana";
