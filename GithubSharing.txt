@@ -1,0 +1,37 @@
+Task
+
+Pada reading and sharing session kali ini, buat kelompok sesuai dengan kelompok tugas besar. 
+Setelah terbentuk (1 ketua dan N sesuai jumlah sisa anggota), lakukan instruksi sebagai berikut:
+1. Ketua kelompok membuat sebuah file index.php yang berisi perintah echo "<nim> - <nama>" di mana <nim> akan digantikan oleh nim ketua dan <nama> akan digantikan oleh nama ketua. 
+   Setelah file terbentuk maka push file yang sudah dibuat ke dalam Github milik ketua.
+
+2. Setelah file index.php berhasil di-push oleh ketua maka sisa anggota melakukan proses clone pada repository Github milik ketua yang berisi file index.php tersebut. 
+   Setelah melakukan proses clone, tambahkan baris pada file index.php dengan perintah yang sama dengan baris perintah ketua di mana 
+   <nim> dan <nama> adalah nim dan nama anggota. Masing-masing anggota cukup menambahkan nim dan namanya masing-masing. 
+   Proses clone oleh sisa anggota wajib dilakukan sebelum salah satu anggota melakukan penambahan baris perintah pada file index.php.
+   Proses clone ini dilakukan menggunakan komputer dan akun masing-masing (agar semua proses bisa dilakukan secara bersamaan)
+
+3. Index.php yang sudah diubah oleh masing-masing anggota kemudian di-push ke repository Github milik ketua. Lakukan secara bersamaan untuk seluruh sisa anggota. 
+   Lakukan pengamatan apa yang terjadi ketika proses nomor 3 dilakukan oleh sisa anggota. 
+   Lakukan screenshot terhadap segala hal yang terjadi pada saat melakukan seluruh instruksi. 
+   Save screenshot dengan nama RaS2-<nomor>.jpg, di mana nomor adalah nomor urut dari screenshot yang dibuat.
+
+Hal yang harus di-share
+Pada pertemuan berikutnya, saya akan memilih dua kelompok yang akan melakukan proses sharing di depan kelas. Adapun hal yang harus di-share:
+
+Kelompok 1: Hasil pengamatan terhadap kejadian ketika instruksi dilakukan. Buktikan dengan screenshot. 
+            Kelompok pertama diwajibkan menceritakan hal yang terjadi ketika instruksi nomor 3 dilakukan. 
+            Cari tahu jenis kejadian apa yang terjadi tersebut. Apakah nama kedua anggota pada tim bisa di-push ke dalam github?
+
+Kelompok 2: Lakukan studi literatur untuk menemukan cara pemecahan masalah yang terjadi apabila instruksi nomor 3 dilakukan agar nama kedua anggota bisa di-push ke dalam repository Github milik ketua.
+
+Masing-masing kelompok boleh saja tidak menyertakan screenshot akan tetapi siapkan live demo di kelas (tentunya sediakan jaringan internet masing-masing). 
+Agar proses live demo lancar maka lakukan latihan sebelum melakukan share di kelas. 
+Masing-masing kelompok yang akan saya pilih di kelas akan mendapatkan waktu maksimal 5 menit untuk melakukan sharing.
+
+Referensi:
+1. https://try.github.io/
+2. https://git-scm.com/doc
+3. http://learngitbranching.js.org/
+
+Selamat menjadi pintar satu langkah
